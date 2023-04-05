@@ -7,8 +7,6 @@
 ### I'm currently working on The Drifter Deckbuilding Game, a deckbuilding adventure game made with Unity (and C#).
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on The Drifter Deckbuilding Game, a deckbuilding adventure game made with Unity (and C#).
 - 🌱 I’m currently learning Full-Stack Web Development on CodeAcademy.
 
