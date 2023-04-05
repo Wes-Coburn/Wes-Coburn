@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/full-stack-engineer">Full-Stack Engineer path</a> on CodeAcademy.
 
-- 🔭 I’m currently working on The Drifter Deckbuilding Game, a deckbuilding adventure game made with Unity (and C#).
-https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game
+- 🔭 I’m currently working on <a href="https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
 
 <!--
 - 👯 I’m looking to collaborate on ...
