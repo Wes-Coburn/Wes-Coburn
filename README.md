@@ -2,7 +2,7 @@
 
 ## I'm Wesley, a web and game developer.
 
-- 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/full-stack-engineer>Full-Stack Engineer path</a> on CodeAcademy.
+- 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/full-stack-engineer">Full-Stack Engineer path</a> on CodeAcademy.
 
 - 🔭 I’m currently working on The Drifter Deckbuilding Game, a deckbuilding adventure game made with Unity (and C#).
 https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game
