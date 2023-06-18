@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/front-end-engineer">Front-End Engineer path</a> on CodeAcademy.
 
-- 🔭 I’m currently working on <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
+- 🔭 My latest project is <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
 
 <!--
 - 👯 I’m looking to collaborate on ...
