@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## I'm Wesley, front-end web developer / indie game developer.
+## I'm Wesley, a front-end web developer
 
 - 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/front-end-engineer">Front-End Engineer path</a> on CodeAcademy.
 
-- 🔭 My latest project is <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
+- 🔭 I also develop indie games! My latest project is <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
 
 <!--
 - 👯 I’m looking to collaborate on ...
