@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Wesley, a web and game developer.
+## I'm Wesley, front-end web developer / indie game developer.
 
 - 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/front-end-engineer">Front-End Engineer path</a> on CodeAcademy.
 
