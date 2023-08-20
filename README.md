@@ -1,16 +1,15 @@
 # Hi there 👋
+## Wesley Coburn (he/him) | Front-End Web Developer | React Developer
 
-## I'm Wesley, a front-end web developer
+- 🌱 I’m studying the <a href="https://www.codecademy.com/career-journey/front-end-engineer">Front-End Engineer path</a> on CodeAcademy.
+- 🔭 I make indie games! My latest project is <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
 
-- 🌱 I’m currently studying the <a href="https://www.codecademy.com/career-journey/front-end-engineer">Front-End Engineer path</a> on CodeAcademy.
+## 💪 I'm proficient with
+- HTML/CSS/JS
+- React.js
+- Redux.js, React/Redux
+- React-Router
 
-- 🔭 I also develop indie games! My latest project is <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌠 I want to learn
+- Next.js
+- Vue.js
