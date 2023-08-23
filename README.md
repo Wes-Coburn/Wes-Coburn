@@ -10,5 +10,5 @@
 - Node | Git | Jest
 
 ## 🌠 I want to learn
+- Express
 - Next.js
-- Vue.js
