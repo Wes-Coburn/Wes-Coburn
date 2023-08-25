@@ -13,7 +13,7 @@
 - Express
 - Next.js
 
-📚 Books I'm reading:
+## 📚 Books I'm reading:
 - HTML & CSS - _Jon Duckett_
 - JavaScript & jQuery - _Jon Duckett_
 - Cracking the Coding Interview - _Gayle Laakmann McDowell_
