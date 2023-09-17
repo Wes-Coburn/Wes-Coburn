@@ -1,20 +1,27 @@
 # Hi there 👋
-## Wesley Coburn (he/him) | Front-End Web Developer | React Developer
+## I'm Wesley (he/him) | Front-End Web Developer | React Developer
 
-- 🌱 I just finished the <a href="https://www.codecademy.com/career-journey/front-end-engineer">Front-End Engineer path</a> on CodeAcademy!
+# 🏗️ Projects
 
-- 🔭 I also make games! My latest project is <a href="https://drifterthegame.com">The Drifter Deckbuilding Game</a>, a deckbuilding adventure game made with Unity (and C#).
+- [WIP] **Reddit client**. A React app that implements the Reddit API.
+- [WIP] **Password Manager**. A React app.<br><br>
+- [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
+- [The Drifter Deckbuilding Game](https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game), a deckbuilding adventure game made with Unity and C#.
 
-## 💪 I'm proficient with
+# 💪 I'm proficient with
 - HTML | CSS | JavaScript | jQuery
 - React | Redux | React-Router
 - Node | Git | Jest
 
-## 🌠 I want to learn
+# 📜 Certifications
+
+- [Front-End Engineer Path - CodeAcademy](https://www.codecademy.com/profiles/Wes-Coburn/certificates/2682884a0719474f96407efe432fdd87)
+
+# 🌠 I want to learn
 - Express
 - Next.js
 
-## 📚 Books I'm reading:
+# 📚 Books I'm reading:
 - HTML & CSS - _Jon Duckett_
 - JavaScript & jQuery - _Jon Duckett_
 - Cracking the Coding Interview - _Gayle Laakmann McDowell_
