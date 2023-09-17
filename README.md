@@ -5,7 +5,7 @@
 
 **Works in Progress**
 - **Reddit client**. A React app that implements the Reddit API.
-- **Password Manager**. A React app.<br><br>
+- **Password Manager**. A full-stack app made with React + Express + MongoDB.<br><br>
 
 **Completed**
 - [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
