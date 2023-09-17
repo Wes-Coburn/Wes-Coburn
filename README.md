@@ -3,8 +3,11 @@
 
 # 🏗️ Projects
 
-- [WIP] **Reddit client**. A React app that implements the Reddit API.
-- [WIP] **Password Manager**. A React app.<br><br>
+**Works in Progress**
+- **Reddit client**. A React app that implements the Reddit API.
+- **Password Manager**. A React app.<br><br>
+
+**Completed**
 - [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
 - [The Drifter Deckbuilding Game](https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game), a deckbuilding adventure game made with Unity and C#.
 
