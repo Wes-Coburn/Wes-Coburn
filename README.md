@@ -25,9 +25,10 @@
 - Next.js
 
 # 📚 Books I'm reading:
-- HTML & CSS - _Jon Duckett_
+- ~~HTML & CSS - _Jon Duckett_~~
 - JavaScript & jQuery - _Jon Duckett_
 - Cracking the Coding Interview - _Gayle Laakmann McDowell_
 - The Designer's Dictionary of Color - _Sean Adams_
 - Thinking With Type - _Ellen Lupton_
 - Video Game Storytelling - _Evan Skolnick_
+- How to Create a Mind - _Ray Kurzweil_
