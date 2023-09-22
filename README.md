@@ -1,11 +1,10 @@
-# Hi there 👋
-## I'm Wesley (he/him) | Front-End Web Developer | React Developer
+# Hi there, I'm Wesley (or Wes) (he/him) 👋
+## Front-End Web Developer | React Developer
 
 # 🏗️ Projects
 
 **Works in Progress**
-- **Reddit client**. A React app that implements the Reddit API.
-- **Password Manager**. A full-stack app made with React + Express + MongoDB.<br><br>
+- **Password Manager**. A full-stack app made with React + Express + MongoDB.
 
 **Completed**
 - [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
@@ -19,10 +18,6 @@
 # 📜 Certifications
 
 - [Front-End Engineer Path - CodeAcademy](https://www.codecademy.com/profiles/Wes-Coburn/certificates/2682884a0719474f96407efe432fdd87)
-
-# 🌠 I want to learn
-- Express
-- Next.js
 
 # 📚 Books I'm reading
 - ~~HTML & CSS - _Jon Duckett_~~
