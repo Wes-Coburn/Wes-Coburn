@@ -4,7 +4,7 @@
 # 🏗️ Projects
 
 **Works in Progress**
-- **Password Manager**. A full-stack app made with React + Express + MongoDB.
+- **Password Manager**. A full-stack MERN app (MongoDB + Express + React + Node)
 
 **Completed**
 - [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
