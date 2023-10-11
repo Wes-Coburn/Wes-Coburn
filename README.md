@@ -9,6 +9,7 @@
 **Completed**
 - [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
 - [The Drifter Deckbuilding Game](https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game), a deckbuilding adventure game made with Unity and C#.
+- [Web App Templates - Ongoing](https://github.com/stars/Wes-Coburn/lists/templates-web-apps)
 
 # 💪 I'm proficient with
 - HTML | CSS | JavaScript | jQuery
