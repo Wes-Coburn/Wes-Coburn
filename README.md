@@ -26,5 +26,3 @@
 - Cracking the Coding Interview - _Gayle Laakmann McDowell_
 - The Designer's Dictionary of Color - _Sean Adams_
 - Thinking With Type - _Ellen Lupton_
-- Video Game Storytelling - _Evan Skolnick_
-- How to Create a Mind - _Ray Kurzweil_
