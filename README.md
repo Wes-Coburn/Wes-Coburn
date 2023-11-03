@@ -1,6 +1,10 @@
 # Hi there, I'm Wesley (or Wes) (he/him) 👋
 ## Front-End Web Developer | React Developer
 ---
+# 📜 Certifications
+
+- [Front-End Engineer Path - CodeAcademy](https://www.codecademy.com/profiles/Wes-Coburn/certificates/2682884a0719474f96407efe432fdd87)
+---
 # 💪 I'm proficient with
 - HTML | CSS | JavaScript | jQuery
 - React | Redux | React-Router
@@ -17,10 +21,6 @@
 
 *Static Website*
 - [DrifterTheGame.com](https://github.com/Wes-Coburn/drifter-website), a website for The Drifter Deckbuilding Game.
----
-# 📜 Certifications
-
-- [Front-End Engineer Path - CodeAcademy](https://www.codecademy.com/profiles/Wes-Coburn/certificates/2682884a0719474f96407efe432fdd87)
 ---
 # 📚 Books I'm reading
 - ~~HTML & CSS - _Jon Duckett_~~
