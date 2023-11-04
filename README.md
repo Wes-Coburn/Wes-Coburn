@@ -6,9 +6,9 @@
 - [Front-End Engineer Path - CodeAcademy](https://www.codecademy.com/profiles/Wes-Coburn/certificates/2682884a0719474f96407efe432fdd87)
 ---
 # 💪 I'm proficient with
-- HTML | CSS | JavaScript | jQuery
+- HTML | CSS | JavaScript | TypeScript
 - React | Redux | React-Router
-- Node | Git | Jest
+- Front-End | Unit Testing
 ---
 # 🏗️ Projects
 
