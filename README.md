@@ -8,7 +8,7 @@
 # 💪 I'm proficient with
 - HTML | CSS | JavaScript | TypeScript
 - React | Redux | React-Router
-- Front-End | Unit Testing
+- Front-End | Unit Testing | GIT
 ---
 # 🏗️ Projects
 
