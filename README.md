@@ -1,7 +1,11 @@
 # Hi there, I'm Wesley (or Wes) (he/him) 👋
 ## Front-End Web Developer | React Developer
 
+---
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wes-coburn/)
+
+### [---> My Portfolio](https://wesley-coburn-portfolio.onrender.com/)
 
 ---
 # 💪 I'm proficient with
