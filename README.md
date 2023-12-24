@@ -21,9 +21,11 @@
 ---
 # 🏗️ Projects
 
+- [Portfolio](https://github.com/Wes-Coburn/portfolio), a React app.
+
 *Web Apps*
-- [Note Taker](https://github.com/Wes-Coburn/note-taker), a full-stack MERN app hosted on Render.
-- [Jammming](https://github.com/Wes-Coburn/jammming), a Spotify client. A React app that implements the Spotify API.
+- [Note Taker](https://github.com/Wes-Coburn/note-taker), a full-stack MERN app.
+- [Jammming](https://github.com/Wes-Coburn/jammming), a React app that implements the Spotify API.
 
 *Unity Game*
 - [The Drifter Deckbuilding Game](https://github.com/Wes-Coburn/Drifter-Deckbuilding-Game), a deckbuilding adventure game made with Unity and C#.
