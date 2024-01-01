@@ -10,7 +10,7 @@
 ---
 # 💪 I'm proficient with
 - HTML | CSS | JavaScript | TypeScript
-- React | Redux | React-Router
+- React | Redux | React-Router | TailwindCSS
 - Front-End | Unit Testing | GIT
 
 ---
